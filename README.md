@@ -12,7 +12,7 @@ We used advanced SQL concepts to extract information about the employees eligibl
 
 based on the data we collected we attempt to answer the following questions: 
 
-Q- How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+Q- How many roles will need to be filled as the "silver tsunami" begins to make an impact?. 
 A - We found,A total of 90398 employees would be impacted" and they are all roles that will require immediate consideration as to filling them.
 
 
